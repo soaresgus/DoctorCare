@@ -10,7 +10,7 @@
 }
 
 :root {
-  --hue: 172;
+  --hue: 1;
   --brand: hsl(var(--hue), 100%, 26%);
   --brand-light: hsl(calc(var(--hue) - 18), 23%, 89%);
   --brand-light-02: hsl(calc(var(--hue) + 10), 12%, 97%);
@@ -681,7 +681,7 @@ footer .social-links {
   /*Services*/
 
   #services h2 {
-    width: 47rem;
+    width: 49.7rem;
     margin-inline: auto;
   }
 
